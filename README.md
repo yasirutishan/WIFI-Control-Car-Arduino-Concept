@@ -1,0 +1,2 @@
+# WIFI-Control-Car-Arduino-Concept
+WIFI is the most promising technology right now, and developers are always working to improve it. This technology is prevalent today and will be for many years to come. WIFI with low power consumption has also been developed. So let us concentrate on this technology today. We created a car that can be controlled via WIFI. If you host your IP address on a website, you can control it from anywhere in the globe, but we'll stick to local WIFI for now. So, let's get started.
